@@ -1,0 +1,15 @@
+class Hurray
+{
+  public static void main(String args[])
+  {
+  char ch='@';
+  switch (ch)
+  {
+    case 'a':
+    case 'b':
+    case 'c':
+    System.out.println("hurray");
+    break;
+    default :
+    System.out.println("hi");
+  }}}
