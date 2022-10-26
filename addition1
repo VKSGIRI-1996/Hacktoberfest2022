@@ -1,0 +1,13 @@
+import java.util.Scanner;
+
+class addition1
+{
+	public static void main(String ags[])
+	{
+		Scanner sc=new Scanner(System.in);
+		int a=sc.nextInt();
+		int b=sc.nextInt();
+		int sum=a+b;
+		System.out.println(sum);
+	}
+}	
